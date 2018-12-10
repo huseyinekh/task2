@@ -1,0 +1,39 @@
+[
+	{
+		"Title":"Image 01 Title",
+		"Description":"Image 01 Description",
+		"Src":"img/1.jpg",
+		"Setting":{
+			"FitToScreen":true,
+			"ZoomIn":true,
+			"ZoomOut":true,
+			"Fullscreen":true,
+			"Download":true
+		}
+	},
+
+	{
+		"Title":"Image 02 Title",
+		"Description":"Image 02 Description",
+		"Src":"img/2.jpg",
+		"Setting":{
+			"FitToScreen":true,
+			"ZoomIn":true,
+			"ZoomOut":true,
+			"Fullscreen":true,
+			"Download":true
+		}
+	},
+	{
+		"Title":"Image 03 Title",
+		"Description":"Image 03 Description",
+		"Src":"img/3.jpg",
+		"Setting":{
+			"FitToScreen":true,
+			"ZoomIn":true,
+			"ZoomOut":true,
+			"Fullscreen":true,
+			"Download":true
+		}
+	}
+]
